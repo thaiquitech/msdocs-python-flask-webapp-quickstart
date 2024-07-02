@@ -15,9 +15,6 @@ variables:
   # TODO: Specify the value of the existing Web App name
   webAppName: 'udacity-lab-04'
 
-  # Environment name
-  environmentName: 'flask-ml-service'
-
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
 
